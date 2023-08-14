@@ -1,0 +1,41 @@
+table,th,td {
+    border: 1px solid orange;
+    border-collapse: collapse; 
+    color:  white;
+
+}
+
+.bold {
+    text-align: center;
+    margin: auto;
+    width: 250px;
+    margin-top: 90px;
+
+    padding-left: 100px;
+    padding-right: 250px;
+   
+   
+    
+}
+#admin{
+     text-align: center;
+     margin: auto;
+     width: 300px;
+     margin-top: 40px;
+     
+     padding-top: auto;
+     padding-bottom: auto;
+     background-color: rgb(247, 66, 11); 
+     color: white;
+     font-family: 'Times New Roman', Times, serif, monospace, sans-serif;
+}
+
+#background {
+    background-color:  black;
+}
+
+td {
+    font-family: serif;
+    font-size: 19px;
+
+}
